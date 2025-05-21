@@ -67,4 +67,4 @@ A responsive online travel template built with React and Tailwind CSS. Features 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
 ✉️ [Email Me](#)  
 
-Thanks for stopping by! 😊  
+Thanks for stopping by :) 😊  
