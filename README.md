@@ -30,9 +30,10 @@ I'm a passionate young developer eager to revolutionize the world through code. 
 ---
 
 ## 🚀 Current Projects  
-### **Travel destination Finder**  
-A responsive online travel template built with React and Tailwind CSS. Features product filtering and destination personalization functionality.  
-🔗 [https://briansila.github.io/Travel-destination-locator/](#) | 📂 [https://github.com/BrianSila/Travel-destination-locator](#)  
+- **[Travel Itenerary CLI](https://github.com/BrianSila/Travel-Itinerary-planner)**  
+  A Python CLI tool for a CRUD-based travel itinerary planner.  
+  - SQLAlchemy & SQLite backend  
+  - Intuitive prompts and full data management
 
 ---
 
