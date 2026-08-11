@@ -37,7 +37,10 @@ I am a passionate developer leveraging computer science fundamentals and full-st
 ---
 
 ## 🚀 Featured Projects
-
+*   **[Tracktastic-sales](https://github.com/BrianSila/tracktastic-sales)**
+    * A sales, customer, and client management front-end dashboard.
+    * Powered by TypeScript.
+    * Showcases AI integration into a system. 
 *   **[Travel Itinerary CLI](https://github.com/BrianSila/Travel-Itinerary-planner)** 
     *   A Python CLI application for a CRUD-based travel itinerary planner.
     *   Powered by a SQLAlchemy and SQLite backend database.
